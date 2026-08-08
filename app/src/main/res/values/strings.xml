@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DPI Trick</string>
+    <string name="status_permissao_ok">Permissão de sobreposição concedida ✅</string>
+    <string name="status_permissao_faltando">É necessário conceder a permissão de sobreposição (aparecer sobre outros apps) para continuar</string>
+    <string name="conceder_permissao">Conceder permissão</string>
+    <string name="iniciar_barra_flutuante">Iniciar barra flutuante</string>
+    <string name="overlay_iniciado">Barra flutuante iniciada</string>
+</resources>
